@@ -26,7 +26,8 @@ Here are some of the technologies and tools I've worked with:
 [![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)](https://soliditylang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Golang](https://img.shields.io/badge/golang-blue)
+[![Golang]([https://img.shields.io/badge/golang-blue](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go
+))
 
 
 **Mobile app development 📱**
