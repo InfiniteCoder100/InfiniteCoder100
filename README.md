@@ -1,7 +1,7 @@
 # Hi there! 👋
 ![Banner Image](./asset/github-img.avif)
 
-I'm Kundan, a remote Blockchain Developer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
+I'm  **Kundan**, a remote Blockchain Developer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
 ## 🧐 About 
  
