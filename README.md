@@ -113,7 +113,6 @@ Here are the list of web3 learning resources
 
 - 🎖️ Certificate of Completion of Blockchain Developement* | 🏫 Issued by Udemy(2023) 
 
-- 
 - 👩‍🚀 **Ethereum Protocol Fellow** ( Oct 2022 - Jan 2023 ) | The Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program) is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
 
 ## 💬 Contact Me
