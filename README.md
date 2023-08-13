@@ -132,5 +132,5 @@ Thanks for checking out my profile!
 InfiniteCoder100/InfiniteCoder100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**My Github Stats**
+## My Github Stats
 [![Kundan's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteCoder100)](https://github.com/anuraghazra/github-readme-stats)
