@@ -13,7 +13,9 @@
 
 
 I'm  **Kundan**, a remote Blockchain Developer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
-</div>
+
+<br>
+
 
 ## 🧐 About 
  
@@ -28,6 +30,9 @@ I'm  **Kundan**, a remote Blockchain Developer with a passion for building high-
 -  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/kundan7750/)
 
 -  ❤️ I love what i do.
+-  
+<br> 
+<br>
 
 ## 🚀 Skills and Expertise
 
@@ -40,10 +45,14 @@ Here are some of the technologies and tools I've worked with:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Golang](https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go)
 
+<br>
+
 
 **Mobile app development 📱**
 
 [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+
+<br>
 
 **Web development 🌍**
 
@@ -61,6 +70,8 @@ Here are some of the technologies and tools I've worked with:
 [![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
+<br>
+
 **Backend development 🌳**
 
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -68,6 +79,8 @@ Here are some of the technologies and tools I've worked with:
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
 [![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
+
+<br>
 
 **Tools and frameworks 🛠️**
 
@@ -81,6 +94,8 @@ Here are some of the technologies and tools I've worked with:
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
 [![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white)](https://brave.com/)
+
+<br>
 
 **Blockchain ⛓️** 
 
@@ -99,6 +114,8 @@ Here are some of the technologies and tools I've worked with:
 [![NFT](https://img.shields.io/badge/NFT-0078FF?style=for-the-badge&logo=nft&logoColor=white)](https://opensea.io/)
 [![Cryptography](https://img.shields.io/badge/Cryptography-833AB4?style=for-the-badge&logo=cryptography&logoColor=white)](https://en.wikipedia.org/wiki/Cryptography)
 
+<br>
+
 ## 🌱 Current Projects
 
 Here are some of my ongoing projects:
@@ -106,6 +123,8 @@ Here are some of my ongoing projects:
 - [React Web3 Login](https://github.com/Shubham0850/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
 - [Anka Wallet](https://github.com/Shubham0850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
 - [BlockShala](https://github.com/Shubham0850/BlockShala): WEB3 learning platform. Learn | Build | Earn
+
+  <br>
 
 ## 🛟 WEB3 Resources
 
@@ -119,6 +138,8 @@ Here are the list of web3 learning resources
 - [👩‍🍳 Awesome WEB3 Projects](https://github.com/Shubham0850/awesome-web3-projects): A handpicked collection of inspiring Web3 projects for learning and exploration.
 - [🔐 Awesome Cryptography](https://github.com/Shubham0850/awesome-cryptography): A curated list of cryptography resources and links.
 
+  <br>
+
 ## 🏆 Achievements
 
 - 🏆 IPR‌ ‌(‌ ‌Copyright‌ ‌)‌ ‌for‌ ‌A-Lab‌ | 🏫 Issued by Government of India ( 2021 )
@@ -126,6 +147,8 @@ Here are the list of web3 learning resources
 - 🎖️ Certificate of Completion of Blockchain Developement* | 🏫 Issued by Udemy(2023) 
 
 - 👩‍🚀 **Ethereum Protocol Fellow** ( Oct 2022 - Jan 2023 ) | The Ethereum Protocol Fellowship (formerly Core Developer Apprentice Program) is a program designed to onboard developers to the process through which the protocol development happens. It is an opportunity to dive deep into the protocol and learn while also working closely with others on the same learning trajectory as well as the core development community.
+
+  <br>
 
 ## 💬 Contact Me
 
@@ -144,6 +167,7 @@ Thanks for checking out my profile!
 InfiniteCoder100/InfiniteCoder100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br>
    ## My Github Stats
    <div align="center">
  
@@ -154,7 +178,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+<br>
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
@@ -162,5 +186,6 @@ You can click the Preview link to take a look at your changes.
 (<img src="https://random-memer.herokuapp.com/" width="512px"/>) -->
   ### Show some ❤️ by staring some of the repositories!
 
+</div>
 </div>
 
