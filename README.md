@@ -2,7 +2,7 @@
 ![Banner Image](./asset/github-img.avif)
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=EAT+%2C+SLEEP+%2CCODE+%2CREPEAT;Open-+Source+Blockchain Developer;Keen+to+learn+....;Take+and+give+10x+to+society" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=EAT+%2C+SLEEP+%2CCODE+%2CREPEAT;Open-+Source+Enthusiast;Keen+to+learn+....;Take+and+give+10x+to+society" alt="Typing SVG" /></a>
  <br align="right">
 
 
@@ -146,11 +146,6 @@ You can click the Preview link to take a look at your changes.
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteCoder100&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=infiniteCoder100&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
- 
 
 
 
