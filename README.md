@@ -1,5 +1,12 @@
 # Hi there! 👋
 ![Banner Image](./asset/github-img.avif)
+<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=EAT+%2C+SLEEP+%2CCODE+%2CREPEAT;Open-+Source+Blockchain Developer;Keen+to+learn+....;Take+and+give+10x+to+society" alt="Typing SVG" /></a>
+ <br align="right">
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<br>
+
 
 I'm  **Kundan**, a remote Blockchain Developer with a passion for building high-quality software that makes a positive impact. I love exploring new technologies, and I'm always looking for new ways to improve my skills and learn from others.
 
@@ -132,9 +139,32 @@ Thanks for checking out my profile!
 InfiniteCoder100/InfiniteCoder100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## My Github Stats
+
+   <div align="center">
+   ## My Github Stats
 
  ![InfiniteCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteCoder100&show_icons=true&theme=cobalt)    [![GitHub Streak](https://streak-stats.demolab.com/?user=infiniteCoder100&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteCoder100&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=infiniteCoder100&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
+ 
+ ## Leetcode Stats 📈 
+ 
+ <a href="https://github.com/yashsharma8433/LeetCode-Stats-Card" target="_blank">
+    <img title="yashsharma LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/yashsharma8433?theme=unicorn&font=Paprika&ext=activity" />
+  </a>
+
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+<!-- ### 😂 Random Dev Meme
+(<img src="https://random-memer.herokuapp.com/" width="512px"/>) -->
+  ### Show some ❤️ by staring some of the repositories!
+
+</div>
 
