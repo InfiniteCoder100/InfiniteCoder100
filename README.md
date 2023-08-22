@@ -31,7 +31,7 @@ I'm  **Kundan**, a remote Blockchain Developer with a passion for building high-
 -  🧗‍♀️ Helping folks learn about WEB3 at [LinkedIN](https://www.linkedin.com/in/kundan7750/)
 
 -  ❤️ I love what i do.
--  
+   
 <br> 
 <br>
 
