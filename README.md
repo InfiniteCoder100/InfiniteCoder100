@@ -138,9 +138,9 @@ Thanks for checking out my profile!
 InfiniteCoder100/InfiniteCoder100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-   <div align="center">
    ## My Github Stats
+   <div align="center">
+ 
 
  ![InfiniteCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteCoder100&show_icons=true&theme=cobalt)    [![GitHub Streak](https://streak-stats.demolab.com/?user=infiniteCoder100&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
@@ -151,11 +151,7 @@ You can click the Preview link to take a look at your changes.
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=infiniteCoder100&theme=radical&no-frame=false&no-bg=false&margin-w=4&bg_color=ffefe7&text_color=140200&title_color=e4626b&border_color=ffd2ce&icon_color=e4626b)
  
- ## Leetcode Stats 📈 
- 
- <a href="https://github.com/yashsharma8433/LeetCode-Stats-Card" target="_blank">
-    <img title="yashsharma LeetCode Stats" alt="JacobLinCool's LeetCode Stats" src="https://leetcard.jacoblin.cool/yashsharma8433?theme=unicorn&font=Paprika&ext=activity" />
-  </a>
+
 
 
 ## ✍️ Random Dev Quote
