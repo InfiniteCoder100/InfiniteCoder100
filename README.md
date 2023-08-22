@@ -1,9 +1,10 @@
 # Hi there! 👋
-![Banner Image](./asset/github-img.avif)
+
 <!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=EAT+%2C+SLEEP+%2CCODE+%2CREPEAT;Open-+Source+Enthusiast;Keen+to+learn+....;Take+and+give+10x+to+society" alt="Typing SVG" /></a>
  <br align="right">
+ ![Banner Image](./asset/github-img.avif)
 
 
 
