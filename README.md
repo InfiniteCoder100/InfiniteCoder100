@@ -179,7 +179,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br>
-</div>
+
 
 ## ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
@@ -187,6 +187,7 @@ You can click the Preview link to take a look at your changes.
 <!-- ### 😂 Random Dev Meme
 (<img src="https://random-memer.herokuapp.com/" width="512px"/>) -->
   ### Show some ❤️ by staring some of the repositories!
+  </div>
 
 
 
