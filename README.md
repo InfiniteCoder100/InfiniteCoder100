@@ -120,9 +120,9 @@ Here are some of the technologies and tools I've worked with:
 
 Here are some of my ongoing projects:
 
-- [React Web3 Login](https://github.com/Shubham0850/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
-- [Anka Wallet](https://github.com/Shubham0850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
-- [BlockShala](https://github.com/Shubham0850/BlockShala): WEB3 learning platform. Learn | Build | Earn
+- [React Web3 Login](https://github.com/Shubham080/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
+- [Anka Wallet](https://github.com/Shubham850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
+- [BlockShala](https://github.com/Shubham050/BlockShala): WEB3 learning platform. Learn | Build | Earn
 
   <br>
 
