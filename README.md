@@ -168,8 +168,9 @@ InfiniteCoder100/InfiniteCoder100 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 <br>
-   ## My Github Stats
+
    <div align="center">
+   ## Github Stats
  
 
  ![InfiniteCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=InfiniteCoder100&show_icons=true&theme=cobalt)    [![GitHub Streak](https://streak-stats.demolab.com/?user=infiniteCoder100&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
