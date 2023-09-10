@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&color=482CF7&background=BF210000&width=435&lines=EAT+%2C+SLEEP+%2CCODE+%2CREPEAT;Block-+Chain+Developer;Keen+to+learn+....;Take+and+give+10x+to+society" alt="Typing SVG" /></a>
 
 
- ![Banner Image](./asset/github-img.avif)
+
    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true" width="380" height="300" />
 
 
