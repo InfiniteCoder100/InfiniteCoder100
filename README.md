@@ -124,11 +124,14 @@ Here are some of the technologies and tools I've worked with:
 
 ## 🌱 Current Projects
 
-Here are some of my ongoing projects:
+Here are some of my ongoing projects: 
 
-- [React Web3 Login](https://github.com/Shubham080/react-web3-login): A lightweight and easy-to-use React hook for connecting to multiple Web3 wallets like MetaMask and Phantom. Seamlessly integrate Web3 wallet authentication into your React applications with minimal configuration.
-- [Anka Wallet](https://github.com/Shubham850/anka-wallet): Anka Wallet is a React Native mobile app for managing Solana cryptocurrency. The wallet provides a user-friendly interface for managing and transferring Solana tokens, as well as seamless integration with Solana Pay for smooth transactions. Designed with a focus on security, user experience, and convenience, Anka Wallet makes managing your Solana assets a breeze.
-- [BlockShala](https://github.com/Shubham050/BlockShala): WEB3 learning platform. Learn | Build | Earn
+- [CherrySwap](https://github.com/InfiniteCoder100/CherrySwap):CherrySwap is a new NFT Marketplace in the town build for buying , selling and swapping of NFTS OR any Token.
+
+- [StudyNotion ](https://github.com/InfiniteCoder100/StudyNotion_Website): StudyNotion is a fully functional ed-tech platform that enables users to create, consume, and rate educational content. The platform is built using the MERN stack, which includes ReactJS, NodeJS, MongoDB, and ExpressJS. StudyNotion aims to provide:
+A seamless and interactive learning experience for students, making education more accessible and engaging students.
+
+- [Wrb3_Paypal](https://github.com/InfiniteCoder100/Web3_Paypal): Web3_Paypal as the name suggests, is a web3 Paypal payement Gateway application for exchaing money across borders within no time ,removing the long time delay and complexities in FACED traditional payement gateways.The tech stack includes React (UI) solidity, ethers.js and Hardhat for building the Backend on the Ethereum Blockchain.
 
   <br>
 
